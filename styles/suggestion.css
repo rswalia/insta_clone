@@ -1,0 +1,43 @@
+/* .followLink {
+    color: rgb(0, 140, 255);
+    margin-right: 10px;
+} */
+
+
+.suggestion-container {
+    width: 15vw;
+    margin-top: 5vh;
+    margin-right: 10vh;
+  }
+  
+  .suggestion-item {
+    padding: 1vw;
+    margin-top: 1vh;
+    border: 1px solid grey;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .user-info {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .username {
+    /* Add your username styles here */
+  }
+  
+  .profile-pic {
+    border-radius: 50%;
+  }
+  
+  .followLink {
+    /* Add your follow link styles here */
+    color: rgb(0, 140, 255);
+  }
+  

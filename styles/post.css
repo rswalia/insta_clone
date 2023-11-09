@@ -1,0 +1,30 @@
+.postContainer {
+    width: 40vw;
+    margin-top: 40px;
+}
+
+.postContainer .post {
+    border: 1px solid white;
+    padding: 5px 5px;
+    margin-bottom: 10px;
+}
+
+.postContainer .comment {
+    margin-bottom: 15px;
+}
+
+
+.postHeader {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    height: 50px;
+    align-items: center;
+    width: 100%;
+}
+
+.postMain {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

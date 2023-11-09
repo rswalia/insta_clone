@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    color: white;
+}
+
+.App {
+    background-color: black;
+    min-height: 100vh;
+}
+
+.App .login {
+    height: 100vh;
+    display: flex; 
+    align-items: center;
+}
